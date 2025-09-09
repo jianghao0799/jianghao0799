@@ -1,6 +1,9 @@
 - ## Hi there 👋
 
-  :butterfly:![](./image/me.jpg)
+<div align="center">
+  <img src="images/me.jpg" alt="jianghao" width="150" style="border-radius: 50%;" />
+  <h3></h3>
+</div>
 
   ## About Me
 
