@@ -15,7 +15,7 @@
   - 🏸 Badminton  
   - 🏓 Table Tennis  
   - 🎮 PC Games  
-  - 🎵 [NetEasy Music]([cDaNdA - 用户 - 网易云音乐](https://music.163.com/#/user/home?id=1464165058))
+  - 🎵 [NetEasy Music](https://music.163.com/#/user/home?id=1464165058)
   - …
 
   ## Contact Me
